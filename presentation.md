@@ -10,7 +10,8 @@ At 1st, What's "markdown"?
 
 "markdown" is ...
 -----------------
-The rule of plain text to formatting.
+One of the lightweight markup languages.
+It enables us to convert plain text format to XHTML (or HTML).
 
 !
 
@@ -51,8 +52,9 @@ About "Markdown Presenter"
 
 "Markdown Presenter" is ...
 ---------------------------
-- The set of HTML page & JavaScript code.
-- Format markdown text as a presentation slide show in a web browser.
+- Simple presentation framework based on Markdown.
+- Written in CSS and JavaScript.
+- Transform a markdown document into an interactive HTML presentation.
 
 !
 
@@ -61,11 +63,11 @@ Features
 
 !
 
-Simple & Rapidly
+Simple & Rapid
 -----------------
 - Format markdown text _**on the fly.**_
 - No need to "compile".
-- Update markdown text file & reload, then effect immediately.
+- Update markdown text files & reload, then effect immediately.
 
 > "For when you're giving a presentation in half an hour, and you haven't got the time to open up keynote..."
 
@@ -82,10 +84,10 @@ Multi devices
 
 !
 
-Printable
+Convertible
 ---------
-- You can print out the "slides" from PC Browser as a PDF.
-- And you can share the PDF on the any network services like a _**"slideshare.com".**_
+- You can convert your HTML slides to PDF files in your browser.
+- And you can share them on the any network services like a _**"slideshare.com".**_
 
 !
 
