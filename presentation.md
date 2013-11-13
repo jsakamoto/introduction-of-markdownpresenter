@@ -186,11 +186,12 @@ Big surprise!
 All these events happened in ONLY A MONTH !!!!
 ===============
 Let's *fork > commit > pull request!*
+Then you can change the world ;)
 -----------------------------------
 
 !
 
 ### Thank you!
 
-_This presentation slides powered by **Markdown Presenter**._
-_And collaborated with **octmatsu**_
+_This presentation slides are powered by **Markdown Presenter**_
+_and collaborated with **octmatsu**._
