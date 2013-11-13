@@ -181,6 +181,10 @@ At last, Chris said...
 
 We are happy :)
 ===============
+Big surprise!
+===============
+All these events happened in ONLY A MONTH !!!!
+===============
 Let's *fork > commit > pull request!*
 -----------------------------------
 
@@ -189,3 +193,4 @@ Let's *fork > commit > pull request!*
 ### Thank you!
 
 _This presentation slides powered by **Markdown Presenter**._
+_And collaborated with **octmatsu**_
