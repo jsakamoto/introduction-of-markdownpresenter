@@ -186,6 +186,7 @@ Big surprise!
 All these events happened in ONLY A MONTH !!!!
 ===============
 Let's *fork > commit > pull request!*
+-----------------------------------
 Then you can change the world ;)
 -----------------------------------
 
