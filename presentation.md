@@ -93,7 +93,7 @@ Convertible
 
 Compatible with PowerPoint Keyboard Shortcuts
 ---------------------------------------
-- You can use _**"< number >+ENTER"**_ to go to slide "< number >".
+- You can use _**"< number >+ENTER"**_  to go to slide "< number >".
 
 !
 
