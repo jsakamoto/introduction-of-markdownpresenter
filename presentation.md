@@ -91,9 +91,9 @@ Convertible
 
 !
 
-PowerPoint compatible keyboard shortcut
+Compatible with PowerPoint Keyboard Shortcuts
 ---------------------------------------
-- Enter 0~9 keys and enter to goto specified page.
+- You can use _**"<number>+ENTER".**_ to go to slide <number>.
 
 !
 
