@@ -100,7 +100,7 @@ Compatible with PowerPoint Keyboard Shortcuts
 Open Source
 -----------
 - Public at GitHub  
- - [https://github.com/jsakamoto/MarkdownPresenter](https://github.com/jsakamoto/MarkdownPresenter)
+- [https://github.com/jsakamoto/MarkdownPresenter](https://github.com/jsakamoto/MarkdownPresenter)
  
 !
  
@@ -166,10 +166,7 @@ Change Commit *Pull Request* Change Commit Pull Request Change Commit **Pull Req
 Change Commit Pull Request Change Commit **Pull Request** Change Commit *Pull Request*
 Change Commit **Pull Request** Change Commit *Pull Request* Change Commit Pull Request
 Change Commit *Pull Request* Change Commit Pull Request Change Commit **Pull Request**
-Change Commit Pull Request Change Commit **Pull Request** Change Commit *Pull Request*
-Change Commit **Pull Request** Change Commit *Pull Request* Change Commit Pull Request
-Change Commit *Pull Request* Change Commit Pull Request Change Commit **Pull Request**
-Change Commit Pull Request Change Commit **Pull Request** Change Commit *Pull Request*
+Change Commit Pull Request Change Commit **Pull Request** Change Commit *Pull Request* Change Commit *Pull*
 
 !
 
