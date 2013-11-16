@@ -113,7 +113,12 @@ One day, I thought...
 -------------------
 "I wanna **printing suppprt** of the Markdown Presenter for sharing my slides on the slideshare.com..."
 
-**Fork!** > Change > Commit -> **Pull Request.**
+!
+
+Fork!
+=====
+
+...and, Change > Commit -> **Pull Request.**
 
 !
 
@@ -181,10 +186,19 @@ At last, Chris said...
 
 We are happy :)
 ===============
+
+!
+
 Big surprise!
 ===============
+
+!
+
 All these events happened in ONLY A MONTH !!!!
 ===============
+
+!
+
 Let's *fork > commit > pull request!*
 -----------------------------------
 Then you can change the world ;)
